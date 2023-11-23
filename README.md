@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://iihakiroii.github.io/html_boilerplate_odin/)+
+[Live Demo Link](https://iihakiroii.github.io/html_boilerplate_odin/)
 
 
 ## Getting Started
